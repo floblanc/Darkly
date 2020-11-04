@@ -1,4 +1,4 @@
-# Expication
+# Explication
 Sur certaines pages du site comme *http://IP/?page=survey* le *survey* correspond à un fichier qui est chargé<br>
 On peut donc le remplacer pour essayer d'accéder à un autre fichier ou se balader dans les dossiers si ces derniers ne sont pas bloqués.<br>
 

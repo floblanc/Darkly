@@ -28,7 +28,7 @@ Pour éviter les failles XSS [OWASP](https://owasp.org/) conseille au minimum de
 - / --> &#x2F;
 ```
 
-# Soucres
+# Sources
 XSS Using Code Encoding <br>
 source : https://owasp.org/www-community/attacks/xss/
 
