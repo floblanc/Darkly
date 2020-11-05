@@ -10,3 +10,5 @@ Une fois tous les README récupérés on va lancer un script qui va nous sortir 
 
 # Comment l'éviter ?
 Il faut proteger la page en question avec un .htaccess.
+
+source : https://www.opentechguides.com/how-to/article/apache/115/htaccess-file-dir-security.html
